@@ -24,3 +24,7 @@ and system functionality.
 ## Flowchart
 
 ![flowchart](https://github.com/user-attachments/assets/a8408415-cf15-489e-9628-d0be88bf0890)
+
+## 🛠 Skills
+
+Assembly Language, TASM
